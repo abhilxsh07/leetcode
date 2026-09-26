@@ -23,3 +23,15 @@ Each problem lives in its own folder, named with a zero-padded problem number an
 ## Languages
 
 Python, C++, and anything else the problem calls for.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
