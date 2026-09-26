@@ -1,0 +1,14 @@
+# Compiled output
+*.out
+*.exe
+*.o
+a.out
+__pycache__/
+*.pyc
+*.class
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
