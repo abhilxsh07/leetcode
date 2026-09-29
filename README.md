@@ -39,6 +39,7 @@ Python, C++, and anything else the problem calls for.
 | [0086-partition-list](https://github.com/abhilxsh07/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/abhilxsh07/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhilxsh07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhilxsh07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -55,6 +56,7 @@ Python, C++, and anything else the problem calls for.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhilxsh07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhilxsh07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ Python, C++, and anything else the problem calls for.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhilxsh07/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/abhilxsh07/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhilxsh07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhilxsh07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -71,6 +74,7 @@ Python, C++, and anything else the problem calls for.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhilxsh07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
