@@ -33,6 +33,7 @@ Python, C++, and anything else the problem calls for.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhilxsh07/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhilxsh07/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhilxsh07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/abhilxsh07/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhilxsh07/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhilxsh07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -56,6 +57,7 @@ Python, C++, and anything else the problem calls for.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhilxsh07/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/abhilxsh07/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhilxsh07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0234-palindrome-linked-list) |
