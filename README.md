@@ -33,6 +33,7 @@ Python, C++, and anything else the problem calls for.
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Python, C++, and anything else the problem calls for.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhilxsh07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/abhilxsh07/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
