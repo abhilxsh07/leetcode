@@ -1,33 +1,37 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
 bool isPalindrome(struct ListNode* head) {
-    // 1. Find the middle using slow/fast pointers
-    struct ListNode *slow = head, *fast = head;
-    while (fast && fast->next) {
+    // a list with 0 or 1 nodes reads the same both ways
+    if (head == NULL || head->next == NULL) {
+        return true;
+    }
+
+    // step 1: find the middle using slow and fast pointers
+    struct ListNode* slow = head;
+    struct ListNode* fast = head;
+    while (fast->next != NULL && fast->next->next != NULL) {
         slow = slow->next;
         fast = fast->next->next;
     }
 
-    // 2. Reverse the second half in place
-    struct ListNode *prev = NULL;
-    while (slow) {
-        struct ListNode *nxt = slow->next;
-        slow->next = prev;
-        prev = slow;
-        slow = nxt;
+    // step 2: reverse everything after the middle
+    struct ListNode* prev = NULL;
+    struct ListNode* curr = slow->next;
+    while (curr != NULL) {
+        struct ListNode* nextNode = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = nextNode;
     }
 
-    // 3. Compare first half with reversed second half
-    struct ListNode *l = head, *r = prev;
-    while (r) {
-        if (l->val != r->val) return false;
-        l = l->next;
-        r = r->next;
+    // step 3: compare the first half with the reversed second half
+    struct ListNode* left = head;
+    struct ListNode* right = prev;
+    while (right != NULL) {
+        if (left->val != right->val) {
+            return false;
+        }
+        left = left->next;
+        right = right->next;
     }
+
     return true;
 }
